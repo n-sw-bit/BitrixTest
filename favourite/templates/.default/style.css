@@ -1,0 +1,19 @@
+#user_list {
+	width: 500px
+}
+
+#user_list_table td:nth-child(1) {
+	width: 80px
+}
+
+#user_list_table td:nth-child(3) {
+	width: 50px
+}
+
+#user_list_table td:nth-child(3) button {
+	padding: 5px;
+}
+    
+#delete_form {
+	display: none
+}
