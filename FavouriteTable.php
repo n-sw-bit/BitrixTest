@@ -4,7 +4,7 @@ use Bitrix\Main\Entity\IntegerField;
 
 class FavouriteTable extends DataManager {
     public static function getTableName() {
-        return 'a5_favourite';
+        return 'test_user_list';
     }
 
     public static function getMap() {
