@@ -1,4 +1,4 @@
-<?namespace Bitrix\Main\Entity;
+<?namespace Test\Entity;
 
 use Bitrix\Main\Entity\IntegerField;
 

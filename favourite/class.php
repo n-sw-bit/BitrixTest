@@ -1,7 +1,7 @@
 <?
 
 use Bitrix\Main\Loader;
-use Bitrix\Main\Entity\FavouriteTable;
+use Test\FavouriteTable;
 
 class UserList extends CBitrixComponent {
 	
